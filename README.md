@@ -1,6 +1,6 @@
-# brkcnr
+# whoami
 
-I'm Burak, a computer science student with a passion for learning and growing.
+I'm Burak Çınar, a computer science student with a passion for learning and growing.
 
 - I'm currently working on improving my Go programming skills
 - Learning and growing in full stack development
@@ -26,7 +26,6 @@ Languages I've dealt with so far;
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brkcnr&layout=compact&theme=dracula" alt="Top Languages" />
 </p>
 
----
 
 
 
