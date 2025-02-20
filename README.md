@@ -13,6 +13,7 @@ Languages I've dealt with so far;
 - Go
 - Python
 - JavaScript
+- TypeScript
 - C#
 - PHP
 - Bash
