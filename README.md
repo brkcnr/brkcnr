@@ -1,10 +1,9 @@
 # whoami
 
-I'm Burak Çınar, a computer science student with a passion for learning and growing.
+I'm Burak Çınar, a information systems engineering student with a passion for learning and growing.
 
 - I'm currently working on improving my Go programming skills
 - Learning and growing in full stack development
-- Intern at [Sipay](https://www.sipay.com.tr)
 - How to reach me: [sburakcinar@gmail.com](mailto:sburakcinar@gmail.com)
 - My LinkedIn: [Burak Çınar](https://www.linkedin.com/in/sburak-%C3%A7%C4%B1nar/)
 
