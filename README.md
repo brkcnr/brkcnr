@@ -1,5 +1,7 @@
 # whoami
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=brkcnr&label=Profile%20views&color=0e75b6&style=flat" alt="brkcnr" /> </p>
+
 I'm Burak Çınar — an Information Systems Engineering student and passionate software developer focused on building scalable, production-ready systems.
 
 - Currently working on NLP projects and backend systems with Python and Go
