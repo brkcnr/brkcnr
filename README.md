@@ -2,7 +2,7 @@
 
 I'm Burak Çınar, a information systems engineering student with a passion for learning and growing.
 
-- I'm currently working on improving my Go programming skills
+- I'm currently working on improving my Go and Python programming skills
 - Learning and growing in full stack development
 - How to reach me: [sburakcinar@gmail.com](mailto:sburakcinar@gmail.com)
 - My LinkedIn: [Burak Çınar](https://www.linkedin.com/in/sburak-%C3%A7%C4%B1nar/)
