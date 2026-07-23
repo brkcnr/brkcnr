@@ -8,7 +8,7 @@ I'm Burak Çınar — an Information Systems Engineering student and passionate 
 - Enthusiastic about open-source, clean architecture and learning new technologies
 
 Reach me: [sburakcinar@gmail.com](mailto:sburakcinar@gmail.com)  
-LinkedIn: [Burak Çınar](https://www.linkedin.com/in/sburak-%C3%A7%C4%B1nar/)
+LinkedIn: [Burak Çınar](https://www.linkedin.com/in/sburakcinar/)
 
 Languages I've dealt with so far;
 
