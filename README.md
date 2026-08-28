@@ -1,30 +1,56 @@
-# whoami
+<div align="center">
 
-I'm Burak Çınar — an Information Systems Engineering student and passionate software developer focused on building scalable, production-ready systems.
+# Hi, I'm Burak Çınar
 
-- Currently working on NLP projects and backend systems with Python and Go
-- Experienced in developing full-stack applications using Go, Django, PostgreSQL and modern web technologies
-- Actively working with containerization (Docker), REST APIs and PostgreSQL
-- Enthusiastic about open-source, clean architecture and learning new technologies
+### Software Developer · AI Agents · Full-Stack Systems
 
-Reach me: [sburakcinar@gmail.com](mailto:sburakcinar@gmail.com)  
-LinkedIn: [Burak Çınar](https://www.linkedin.com/in/sburakcinar/)
+I build practical software where intelligent automation, reliable backends, and thoughtful product design meet.
 
-Languages I've dealt with so far;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Burak_Çınar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sburakcinar/)
+[![Email](https://img.shields.io/badge/Email-sburakcinar%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sburakcinar@gmail.com)
 
-- Go
-- Python
-- JavaScript
-- TypeScript
-- C#
-- PHP
-- Bash
-- SQL
+</div>
+
+## About me
+
+I'm a developer with an Information Systems Engineering background, interested in building systems that are useful beyond the demo stage. My recent work spans autonomous agents, real-time integrations, financial software, and augmented reality.
+
+-  Building AI agents with fast local decision loops and LLM-assisted planning
+-  Developing full-stack products with TypeScript, Next.js, NestJS, and relational databases
+-  Designing APIs and backend systems with testing, security, and maintainability in mind
+-  Exploring spatial computing and mobile AR with Unity and AR Foundation
+
+## Featured projects
+
+| Project | What it does | Built with |
+|---|---|---|
+| [**TerrAgent**](https://github.com/brkcnr/terragent) | An autonomous agent designed to play Terraria from a fresh world to the Moon Lord, combining a 60 FPS reflex engine with budget-aware LLM planning. | Python, C#, WebSocket, Gemini |
+| [**FinOps TR**](https://github.com/brkcnr/finops-tr) | A Turkish-first financial operations platform for SMEs, covering cash flow, invoicing, collections, payables, reporting, multi-tenancy, and RBAC. | Next.js, React, NestJS, Prisma |
+| [**ARCore Measure**](https://github.com/brkcnr/ARCore_Measure) | An Android AR app that measures distance, perimeter, and area directly on detected surfaces. | Unity, C#, AR Foundation |
+
+## Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cs,ts,js,go,java,php,bash" alt="Languages: Python, C#, TypeScript, JavaScript, Go, Java, PHP, and Bash" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,django,flask,nodejs,unity" alt="Frameworks: Next.js, React, NestJS, Django, Flask, Node.js, and Unity" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,docker,git,github,linux" alt="Tools: PostgreSQL, SQLite, Prisma, Docker, Git, GitHub, and Linux" />
+</p>
+
+## GitHub activity
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brkcnr&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="Burak's GitHub statistics" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brkcnr&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="Burak's most used languages" />
+</div>
 
 ---
 
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=brkcnr&show_icons=true&theme=dracula" alt="GitHub Stats" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brkcnr&layout=compact&theme=dracula" alt="Top Languages" />
-</p>
+<div align="center">
+  <i>Always learning, building, and turning ambitious ideas into working software.</i>
+</div>
