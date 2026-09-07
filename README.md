@@ -24,7 +24,7 @@ I'm a developer with an Information Systems Engineering background, interested i
 
 | Project | What it does | Built with |
 |---|---|---|
-| [**TerrAgent**](https://github.com/brkcnr/terragent) | An autonomous agent designed to play Terraria from a fresh world to the Moon Lord, combining a 60 FPS reflex engine with budget-aware LLM planning. | Python, C#, WebSocket, Gemini |
+| [**TerrAgent**](https://github.com/brkcnr/terragent) | An experimental Terraria automation runtime with a live tModLoader bridge, deterministic Python reflexes, and strategy-driven boss combat. | Python, C#, tModLoader, WebSocket |
 | [**FinOps TR**](https://github.com/brkcnr/finops-tr) | A Turkish-first financial operations platform for SMEs, covering cash flow, invoicing, collections, payables, reporting, multi-tenancy, and RBAC. | Next.js, React, NestJS, Prisma |
 | [**ARCore Measure**](https://github.com/brkcnr/ARCore_Measure) | An Android AR app that measures distance, perimeter, and area directly on detected surfaces. | Unity, C#, AR Foundation |
 
