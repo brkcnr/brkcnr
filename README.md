@@ -30,23 +30,31 @@ I'm a developer with an Information Systems Engineering background, interested i
 
 ## Toolbox
 
-<p align="center">
+**Languages**
+
+<p>
   <img src="https://skillicons.dev/icons?i=python,cs,ts,js,go,java,php,bash" alt="Languages: Python, C#, TypeScript, JavaScript, Go, Java, PHP, and Bash" />
 </p>
 
-<p align="center">
+**Frameworks & platforms**
+
+<p>
   <img src="https://skillicons.dev/icons?i=nextjs,react,nestjs,django,flask,nodejs,unity" alt="Frameworks: Next.js, React, NestJS, Django, Flask, Node.js, and Unity" />
 </p>
 
-<p align="center">
+**Tools & data**
+
+<p>
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,docker,git,github,linux" alt="Tools: PostgreSQL, SQLite, Prisma, Docker, Git, GitHub, and Linux" />
 </p>
 
 ## GitHub activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=brkcnr&show_icons=true&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E&icon_color=58A6FF" alt="Burak's GitHub statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brkcnr&layout=compact&hide_border=true&theme=transparent&title_color=58A6FF&text_color=8B949E" alt="Burak's most used languages" />
+  <a href="https://github.com/brkcnr?tab=followers"><img src="https://img.shields.io/github/followers/brkcnr?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/brkcnr?tab=stars"><img src="https://img.shields.io/github/stars/brkcnr?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" /></a>
+  <br /><br />
+  <a href="https://github.com/brkcnr?tab=overview">View my contribution activity on GitHub →</a>
 </div>
 
 ---
