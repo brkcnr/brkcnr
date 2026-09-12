@@ -48,15 +48,6 @@ I'm a developer with an Information Systems Engineering background, interested i
   <img src="https://skillicons.dev/icons?i=postgres,sqlite,prisma,docker,git,github,linux" alt="Tools: PostgreSQL, SQLite, Prisma, Docker, Git, GitHub, and Linux" />
 </p>
 
-## GitHub activity
-
-<div align="center">
-  <a href="https://github.com/brkcnr?tab=followers"><img src="https://img.shields.io/github/followers/brkcnr?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
-  <a href="https://github.com/brkcnr?tab=stars"><img src="https://img.shields.io/github/stars/brkcnr?style=for-the-badge&logo=github&label=Stars" alt="GitHub stars" /></a>
-  <br /><br />
-  <a href="https://github.com/brkcnr?tab=overview">View my contribution activity on GitHub →</a>
-</div>
-
 ---
 
 <div align="center">
